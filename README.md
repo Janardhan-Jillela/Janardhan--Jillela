@@ -51,15 +51,6 @@ I'm actively seeking opportunities to collaborate on innovative projects, contri
 * Data Analytics
 * Business Intelligence
 
----
-
-📈 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
-
----
 
 ⭐ **Featured Projects**
 
