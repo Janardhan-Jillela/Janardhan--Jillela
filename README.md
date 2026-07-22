@@ -25,7 +25,6 @@
 <h3 align="center">
 Software Engineer | AI/ML Engineer | Data Science Enthusiast
 </h3>
----
 
 # 👨‍💻 About Me
 
