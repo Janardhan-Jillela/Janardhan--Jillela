@@ -131,7 +131,7 @@
 
 # 🏆 Achievements
 
-🏅 150+ LeetCode Problems Solved
+🏅 50+ LeetCode Problems Solved
 
 🏅 DataCamp Data Analyst Associate
 
