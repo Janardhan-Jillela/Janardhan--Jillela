@@ -1,6 +1,6 @@
 # Janardhan--Jillela
 <p align="center">
-  <img src="./Jana Github.png" alt="Janardhan Jillela Banner" width="100%" />
+  <img src="./Jana Github .png" alt="Janardhan Jillela Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Janardhan Jillela</h1>
 <h3 align="center">Software Engineer | AI/ML Engineer | Data Science Enthusiast</h3>
