@@ -2,6 +2,11 @@
 <p align="center">
   <img src="./Jana Github .png" alt="Janardhan Jillela Banner" width="100%" />
 </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI%2FML+Engineer;Python+Developer;Data+Science+Enthusiast;Open+to+Work+%7C+Immediate+Joiner" alt="Typing SVG" />
+  </a>
+</p>
 <h1 align="center">Hi 👋, I'm Janardhan Jillela</h1>
 <h3 align="center">Software Engineer | AI/ML Engineer | Data Science Enthusiast</h3>
 
