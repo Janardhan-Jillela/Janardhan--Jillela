@@ -7,6 +7,31 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI%2FML+Engineer;Python+Developer;Data+Science+Enthusiast;Open+to+Work+%7C+Immediate+Joiner" alt="Typing SVG" />
   </a>
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/janardhan-jillela" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:jillella215@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/janardhan_215/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="https://github.com/Janardhan-Jillela">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Janardhan-Jillela&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Immediate%20Joiner-success?style=for-the-badge"/>
+</p>
 <h1 align="center">Hi 👋, I'm Janardhan Jillela</h1>
 <h3 align="center">Software Engineer | AI/ML Engineer | Data Science Enthusiast</h3>
 
